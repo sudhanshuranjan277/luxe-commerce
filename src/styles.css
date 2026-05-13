@@ -173,7 +173,7 @@
   }
 }
 
-/* Display font via Google Fonts — loaded via <link> in __root.tsx for non-blocking delivery */
+/* Display font via Google Fonts — loaded non-blocking via <link> in index.html */
 :root {
   --font-display: "Playfair Display", "Clash Display", "Inter", ui-serif;
   --font-sans: "Inter", ui-sans-serif, system-ui;
