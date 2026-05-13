@@ -1,0 +1,242 @@
+[
+  {
+    "id": "p1",
+    "slug": "atelier-cashmere-overcoat",
+    "name": "Atelier Cashmere Overcoat",
+    "brand": "Maison Noir",
+    "category": "fashion",
+    "price": 1280,
+    "compareAt": 1620,
+    "rating": 4.9,
+    "reviews": 218,
+    "stock": 12,
+    "badge": "New",
+    "colors": ["#1a1a1a", "#c2b59b", "#5b4636"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=70&auto=format"
+    ],
+    "description": "A sculpted double-breasted overcoat woven from pure Mongolian cashmere, finished by hand in our Milan atelier."
+  },
+  {
+    "id": "p2",
+    "slug": "aero-runner-onyx",
+    "name": "Aero Runner Onyx",
+    "brand": "Velt",
+    "category": "sneakers",
+    "price": 220,
+    "compareAt": 280,
+    "rating": 4.8,
+    "reviews": 1432,
+    "stock": 38,
+    "badge": "Bestseller",
+    "colors": ["#0a0a0a", "#ffffff", "#d6b27a"],
+    "sizes": ["7", "8", "9", "10", "11", "12"],
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=600&q=70&auto=format"
+    ],
+    "description": "Featherlight performance silhouette with a sculpted carbon midsole and breathable engineered mesh upper."
+  },
+  {
+    "id": "p3",
+    "slug": "halo-pro-wireless",
+    "name": "Halo Pro Wireless",
+    "brand": "Northwave",
+    "category": "electronics",
+    "price": 349,
+    "compareAt": 429,
+    "rating": 4.7,
+    "reviews": 932,
+    "stock": 21,
+    "badge": "-19%",
+    "colors": ["#111111", "#f4f1ec"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=70&auto=format"
+    ],
+    "description": "Studio-grade adaptive noise cancelling with spatial audio and 50-hour battery life."
+  },
+  {
+    "id": "p4",
+    "slug": "regal-chronograph-gold",
+    "name": "Regal Chronograph Gold",
+    "brand": "Vermeil",
+    "category": "watches",
+    "price": 2890,
+    "compareAt": 3200,
+    "rating": 5.0,
+    "reviews": 84,
+    "stock": 6,
+    "badge": "Limited",
+    "colors": ["#caa45a", "#1a1a1a"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=600&q=70&auto=format"
+    ],
+    "description": "Swiss automatic movement housed in 18k gold with a sapphire crystal exhibition caseback."
+  },
+  {
+    "id": "p5",
+    "slug": "milan-leather-tote",
+    "name": "Milan Leather Tote",
+    "brand": "Casa Fina",
+    "category": "accessories",
+    "price": 540,
+    "compareAt": null,
+    "rating": 4.8,
+    "reviews": 311,
+    "stock": 18,
+    "badge": "New",
+    "colors": ["#3b2a1f", "#0a0a0a", "#d6c4a8"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&q=70&auto=format"
+    ],
+    "description": "Vegetable-tanned full-grain leather, hand-stitched and numbered."
+  },
+  {
+    "id": "p6",
+    "slug": "neo-console-x",
+    "name": "Neo Console X",
+    "brand": "Pulse",
+    "category": "gaming",
+    "price": 599,
+    "compareAt": 699,
+    "rating": 4.9,
+    "reviews": 2104,
+    "stock": 9,
+    "badge": "-14%",
+    "colors": ["#0a0a0a", "#ffffff"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1606318313846-f8a06f7e0aae?w=600&q=70&auto=format"
+    ],
+    "description": "Next-gen 8K performance with ray traced lighting and a whisper-quiet liquid cooling chassis."
+  },
+  {
+    "id": "p7",
+    "slug": "linen-resort-shirt",
+    "name": "Linen Resort Shirt",
+    "brand": "Maison Noir",
+    "category": "fashion",
+    "price": 180,
+    "compareAt": 220,
+    "rating": 4.6,
+    "reviews": 412,
+    "stock": 44,
+    "badge": null,
+    "colors": ["#f4f1ec", "#cdb898", "#324b3f"],
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=600&q=70&auto=format"
+    ],
+    "description": "Garment-dyed European linen with a relaxed camp collar."
+  },
+  {
+    "id": "p8",
+    "slug": "court-low-ivory",
+    "name": "Court Low Ivory",
+    "brand": "Velt",
+    "category": "sneakers",
+    "price": 165,
+    "compareAt": null,
+    "rating": 4.7,
+    "reviews": 689,
+    "stock": 27,
+    "badge": "New",
+    "colors": ["#f4f1ec", "#0a0a0a"],
+    "sizes": ["7", "8", "9", "10", "11"],
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&q=70&auto=format"
+    ],
+    "description": "Heritage tennis silhouette in supple Italian leather."
+  },
+  {
+    "id": "p9",
+    "slug": "lumen-smart-lamp",
+    "name": "Lumen Smart Lamp",
+    "brand": "Northwave",
+    "category": "electronics",
+    "price": 240,
+    "compareAt": 290,
+    "rating": 4.5,
+    "reviews": 198,
+    "stock": 33,
+    "badge": "-17%",
+    "colors": ["#0a0a0a", "#caa45a"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=600&q=70&auto=format"
+    ],
+    "description": "Sculpted aluminum smart lamp with circadian tuning and ambient scenes."
+  },
+  {
+    "id": "p10",
+    "slug": "obsidian-aviator",
+    "name": "Obsidian Aviator",
+    "brand": "Casa Fina",
+    "category": "accessories",
+    "price": 320,
+    "compareAt": null,
+    "rating": 4.8,
+    "reviews": 145,
+    "stock": 22,
+    "badge": "New",
+    "colors": ["#0a0a0a", "#caa45a"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&q=70&auto=format"
+    ],
+    "description": "Hand-polished titanium frames with polarized obsidian lenses."
+  },
+  {
+    "id": "p11",
+    "slug": "heritage-moonphase",
+    "name": "Heritage Moonphase",
+    "brand": "Vermeil",
+    "category": "watches",
+    "price": 1850,
+    "compareAt": 2100,
+    "rating": 4.9,
+    "reviews": 67,
+    "stock": 8,
+    "badge": "Limited",
+    "colors": ["#1a1a1a", "#c2b59b"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1619134778706-7015533a6150?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1622434641406-a158123450f9?w=600&q=70&auto=format"
+    ],
+    "description": "Astronomical moonphase complication with a hand-finished blued steel hand set."
+  },
+  {
+    "id": "p12",
+    "slug": "arc-mech-keyboard",
+    "name": "Arc Mech Keyboard",
+    "brand": "Pulse",
+    "category": "gaming",
+    "price": 199,
+    "compareAt": 249,
+    "rating": 4.8,
+    "reviews": 521,
+    "stock": 41,
+    "badge": "-20%",
+    "colors": ["#0a0a0a", "#f4f1ec"],
+    "sizes": [],
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=70&auto=format",
+      "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=600&q=70&auto=format"
+    ],
+    "description": "Low-profile aluminum chassis with hot-swap optical switches and PBT keycaps."
+  }
+]

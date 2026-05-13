@@ -1,0 +1,6 @@
+[
+  { "id": "t1", "name": "Amelia Chen", "role": "Creative Director", "avatar": "https://i.pravatar.cc/120?img=47", "rating": 5, "text": "The packaging alone felt like a gift. Every detail of the experience is considered — this is the new bar for online retail." },
+  { "id": "t2", "name": "Julien Marchetti", "role": "Architect", "avatar": "https://i.pravatar.cc/120?img=12", "rating": 5, "text": "I've ordered four times in three months. The materials, the fit, the delivery — it's effortless luxury, and I'm hooked." },
+  { "id": "t3", "name": "Priya Raman", "role": "Founder, Studio Loma", "avatar": "https://i.pravatar.cc/120?img=32", "rating": 5, "text": "What surprised me most was the service. A real person, in minutes, who knew the products. Rare and refreshing." },
+  { "id": "t4", "name": "Marcus Hale", "role": "Photographer", "avatar": "https://i.pravatar.cc/120?img=68", "rating": 5, "text": "The Aero Runners replaced three pairs in my closet. Sleek enough for the studio, technical enough for a 10k." }
+]
