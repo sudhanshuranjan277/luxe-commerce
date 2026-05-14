@@ -25,9 +25,9 @@ export function FlashSale() {
   const sale = products.filter((p) => p.compareAt).slice(0, 4);
 
   return (
-    <section className="py-24 lg:py-32 bg-gradient-luxe text-white relative overflow-hidden">
+    <section className="py-24 lg:py-32 bg-gradient-luxe text-white relative overflow-hidden max-w-full">
       <motion.div
-        className="absolute -top-40 -left-40 size-[600px] rounded-full bg-[var(--sale)]/20 blur-3xl"
+        className="absolute -top-40 -left-40 size-[600px] rounded-full bg-[var(--sale)]/20 blur-3xl pointer-events-none"
         animate={{ x: [0, 100, 0], y: [0, 50, 0] }}
         transition={{ duration: 14, repeat: Infinity }}
       />

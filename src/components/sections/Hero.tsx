@@ -4,8 +4,8 @@ import { ArrowRight, Sparkles } from "lucide-react";
 
 export function Hero() {
   return (
-    <section className="relative overflow-hidden">
-      <div className="relative min-h-[92vh] flex items-end">
+    <section className="relative overflow-hidden max-w-full">
+      <div className="relative min-h-[92vh] flex items-end overflow-hidden">
         <img
           src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1600&q=75&auto=format"
           alt="Hero"
@@ -17,7 +17,7 @@ export function Hero() {
         <div className="absolute inset-0 bg-gradient-to-r from-black/60 via-transparent to-transparent" />
 
         <motion.div
-          className="absolute -top-40 -right-40 size-[600px] rounded-full bg-[var(--gold)]/20 blur-3xl"
+          className="absolute -top-40 -right-40 size-[600px] rounded-full bg-[var(--gold)]/20 blur-3xl pointer-events-none"
           animate={{ scale: [1, 1.15, 1], opacity: [0.4, 0.6, 0.4] }}
           transition={{ duration: 10, repeat: Infinity }}
         />

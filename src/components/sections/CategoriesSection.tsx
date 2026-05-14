@@ -5,8 +5,8 @@ import categories from "@/data/categories.json";
 
 export function CategoriesSection() {
   return (
-    <section className="py-24 lg:py-32">
-      <div className="mx-auto max-w-[1400px] px-5 lg:px-10">
+    <section className="py-24 lg:py-32 max-w-full">
+      <div className="mx-auto max-w-[1400px] px-5 lg:px-10 w-full">
         <div className="flex items-end justify-between mb-12 gap-6">
           <div>
             <span className="text-xs uppercase tracking-[0.25em] text-muted-foreground">Browse</span>

@@ -108,8 +108,8 @@ function Shop() {
   );
 
   return (
-    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-16">
-      <div className="flex items-center gap-2 text-xs text-muted-foreground mb-4">
+    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-16 w-full">
+      <div className="flex items-center gap-2 text-xs text-muted-foreground mb-4 overflow-x-auto pb-2">
         <Link to="/">Home</Link> <span>/</span> <span>Shop</span>
       </div>
       <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-4 mb-10">

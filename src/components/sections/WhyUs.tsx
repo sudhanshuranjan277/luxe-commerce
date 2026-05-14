@@ -10,8 +10,8 @@ const features = [
 
 export function WhyUs() {
   return (
-    <section className="py-24 lg:py-32">
-      <div className="mx-auto max-w-[1400px] px-5 lg:px-10 grid lg:grid-cols-4 gap-5">
+    <section className="py-24 lg:py-32 max-w-full">
+      <div className="mx-auto max-w-[1400px] px-5 lg:px-10 w-full grid lg:grid-cols-4 gap-5">
         {features.map((f, i) => (
           <motion.div
             key={f.title}

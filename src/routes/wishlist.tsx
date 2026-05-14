@@ -10,7 +10,7 @@ function Wishlist() {
   const wishlist = useStore((s) => s.wishlist);
   const items = products.filter((p) => wishlist.includes(p.id));
   return (
-    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-20">
+    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-20 w-full">
       <h1 className="font-display text-5xl lg:text-7xl">Wishlist</h1>
       <p className="text-muted-foreground mt-2">Pieces you're saving for later</p>
       {items.length === 0 ? (

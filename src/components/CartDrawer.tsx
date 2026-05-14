@@ -26,7 +26,7 @@ export function CartDrawer() {
           <motion.aside
             initial={{ x: "100%" }} animate={{ x: 0 }} exit={{ x: "100%" }}
             transition={{ type: "spring", damping: 30, stiffness: 260 }}
-            className="fixed right-0 top-0 bottom-0 z-50 w-full sm:w-[440px] bg-background flex flex-col"
+            className="fixed right-0 top-0 bottom-0 z-50 w-full sm:w-[min(440px,90vw)] bg-background flex flex-col"
           >
             <div className="p-5 flex items-center justify-between border-b border-border">
               <h3 className="font-display text-xl">Your bag · {count}</h3>

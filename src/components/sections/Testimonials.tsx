@@ -7,8 +7,8 @@ export function Testimonials() {
   const [i, setI] = useState(0);
   const t = testimonials[i];
   return (
-    <section className="py-24 lg:py-32 bg-gradient-luxe text-white relative overflow-hidden">
-      <motion.div className="absolute -top-32 right-1/4 size-[500px] rounded-full bg-[var(--gold)]/15 blur-3xl"
+    <section className="py-24 lg:py-32 bg-gradient-luxe text-white relative overflow-hidden max-w-full">
+      <motion.div className="absolute -top-32 right-1/4 size-[500px] rounded-full bg-[var(--gold)]/15 blur-3xl pointer-events-none"
         animate={{ scale: [1, 1.2, 1] }} transition={{ duration: 12, repeat: Infinity }}
       />
       <div className="mx-auto max-w-4xl px-5 lg:px-10 text-center relative">

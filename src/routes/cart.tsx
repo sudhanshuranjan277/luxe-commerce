@@ -14,7 +14,7 @@ function CartPage() {
 
   if (items.length === 0) {
     return (
-      <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-32 text-center">
+      <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-32 text-center w-full">
         <div className="size-24 mx-auto rounded-full bg-secondary grid place-items-center mb-6">
           <ShoppingBag className="size-10 text-muted-foreground" />
         </div>
@@ -26,7 +26,7 @@ function CartPage() {
   }
 
   return (
-    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-20">
+    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-20 w-full">
       <h1 className="font-display text-5xl lg:text-7xl">Your bag</h1>
       <p className="text-muted-foreground mt-2">{items.length} item(s) ready for checkout</p>
 

@@ -79,9 +79,9 @@ export function Navbar() {
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: 10 }}
-                    className="absolute top-full left-1/2 -translate-x-1/2 pt-4 w-[720px]"
+                    className="absolute top-full left-1/2 -translate-x-1/2 pt-4 max-w-[90vw] w-[720px]"
                   >
-                    <div className="glass rounded-3xl p-6 shadow-elev grid grid-cols-3 gap-3">
+                    <div className="glass rounded-3xl p-6 shadow-elev grid grid-cols-3 gap-3 max-h-[80vh] overflow-y-auto">
                       {categories.map((c) => (
                         <Link
                           key={c.id}
@@ -151,7 +151,7 @@ export function Navbar() {
               animate={{ x: 0 }}
               exit={{ x: "-100%" }}
               transition={{ type: "spring", damping: 28, stiffness: 240 }}
-              className="fixed left-0 top-0 bottom-0 z-50 w-80 bg-background p-6 flex flex-col gap-6"
+              className="fixed left-0 top-0 bottom-0 z-50 w-[min(320px,80vw)] bg-background p-6 flex flex-col gap-6"
             >
               <div className="flex items-center justify-between">
                 <span className="font-display text-xl">MaisonLux</span>

@@ -27,7 +27,7 @@ function Checkout() {
   };
 
   return (
-    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-16">
+    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-12 lg:py-16 w-full">
       <h1 className="font-display text-4xl lg:text-6xl mb-2">Checkout</h1>
 
       <div className="flex items-center gap-2 mt-8 mb-12">

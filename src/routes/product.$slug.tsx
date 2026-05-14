@@ -54,8 +54,8 @@ function ProductPage() {
   };
 
   return (
-    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-10 lg:py-16">
-      <div className="flex items-center gap-2 text-xs text-muted-foreground mb-8">
+    <div className="mx-auto max-w-[1400px] px-5 lg:px-10 py-10 lg:py-16 w-full">
+      <div className="flex items-center gap-2 text-xs text-muted-foreground mb-8 overflow-x-auto pb-2">
         <Link to="/">Home</Link> <span>/</span>
         <Link to="/shop" search={{ category: product.category }}>{product.category}</Link>
         <span>/</span> <span className="text-foreground">{product.name}</span>

@@ -5,8 +5,8 @@ import collections from "@/data/collections.json";
 
 export function CollectionsSection() {
   return (
-    <section className="py-24 lg:py-32 bg-secondary">
-      <div className="mx-auto max-w-[1400px] px-5 lg:px-10">
+    <section className="py-24 lg:py-32 bg-secondary max-w-full">
+      <div className="mx-auto max-w-[1400px] px-5 lg:px-10 w-full">
         <div className="text-center mb-16">
           <span className="text-xs uppercase tracking-[0.25em] text-muted-foreground">The Edits</span>
           <h2 className="font-display text-4xl lg:text-6xl mt-3">Featured collections</h2>
